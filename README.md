@@ -44,4 +44,4 @@ Arduino IDE
 ## Diagrams
 
 ![Axis](https://github.com/sourabh48/4X4X4-Cube-Led-Decoration./blob/master/F74XIO8J6IF23Z1.LARGE.jpg)
-![Circuit](https://github.com/sourabh48/4X4X4-Cube-Led-Decoration./blob/master/FLY4KCQJ6IF0AHA.LARGE.jpg)
+
